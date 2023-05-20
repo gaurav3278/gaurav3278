@@ -56,11 +56,3 @@
 <p align = "center">
      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav3278&theme=tokyonight" align = "center" width="50%">
 </p>
-
-<p align="center">
-<a href="https://github.com/gaurav3278/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=gaurav3278&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
-
-- **[Detailed Stats](https://gitstats.me/gaurav3278)**
