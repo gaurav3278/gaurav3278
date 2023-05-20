@@ -43,7 +43,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav3278&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="gaurav3278" /></a> </p>
+<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=gaurav3278&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="gaurav3278" /></a> </p>
 
 <!-- <img align="center" alt="GIF" src="coding-freak.gif?raw=true" width="450" height="290" />  -->
 <p align = "left">
